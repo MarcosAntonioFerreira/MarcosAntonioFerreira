@@ -8,7 +8,7 @@
 
 ###
 
-<div align="left" style="display: flex;">
+<div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -63,8 +63,23 @@
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
 </div>
 
+
 ###
 
- <img src="./octocat-marcos-almeida.png" height="250" alt="octocat"  />
+<div align="left">
+  
+## 📈 Estatísticas do GitHub
+[![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)](https://github.com/MarcosAntonioFerreira)
+
+</div>
+
+ ###
  
+## 📊 Linguagens mais usadas
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAntonioFerreira&layout=compact&theme=radical)](https://github.com/MarcosAntonioFerreira)
+
 ###
+
+<img align="right" src="./octocat-marcos-almeida.png" height="250" alt="octocat"  />
+
+ ###
