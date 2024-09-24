@@ -66,20 +66,16 @@
 
 ###
 
-<div align="left">
+
   
 ## 📈 Estatísticas do GitHub
 [![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)](https://github.com/MarcosAntonioFerreira)
-
-</div>
-
- ###
  
 ## 📊 Linguagens mais usadas
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAntonioFerreira&layout=compact&theme=radical)](https://github.com/MarcosAntonioFerreira)
 
-###
+##
 
 <img align="right" src="./octocat-marcos-almeida.png" height="250" alt="octocat"  />
 
- ###
+###
