@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas. Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Stack.</h2>
+<h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas.<br /><br /> Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Stack.</h2>
 
 ###
 
