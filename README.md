@@ -70,6 +70,8 @@
   
 ## 📈 Estatísticas do GitHub
 [![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)](https://github.com/MarcosAntonioFerreira)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)
  
 ## 📊 Linguagens mais usadas
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAntonioFerreira&layout=compact&theme=radical)](https://github.com/MarcosAntonioFerreira)
