@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Opaaa 👋! Bem vindo a minha BIO!!!</h2>
+<h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas. Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Stack.</h2>
 
 ###
 
@@ -71,10 +71,6 @@
 ## 📈 Estatísticas do GitHub
 [![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)](https://github.com/MarcosAntonioFerreira)
 
-![Meus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)
  
 ## 📊 Linguagens mais usadas
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAntonioFerreira&layout=compact&theme=radical)](https://github.com/MarcosAntonioFerreira)
