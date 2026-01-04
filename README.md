@@ -76,6 +76,8 @@
 
 ##
 
+<a href="https://app.rocketseat.com.br/me/marcos-almeida"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcos-almeida&type=card" width="280" alt="Marcos Almeida's Rocket ID"/></a>
+
 <img align="right" src="./octocat-marcos-almeida.png" height="250" alt="octocat"  />
 
 ###
