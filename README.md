@@ -39,11 +39,11 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAntonioFerreira&theme=radical" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAntonioFerreira&theme=radical" />
 </p>
 
-<div align="right">
-<a href="https://app.rocketseat.com.br/me/marcos-almeida"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcos-almeida&type=card" width="300" alt="Marcos Almeida's Rocket ID"/></a>
+<div align="center">
+<a href="https://app.rocketseat.com.br/me/marcos-almeida"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcos-almeida&type=card" width="400" alt="Marcos Almeida's Rocket ID"/></a>
 </div>
 
  <!--
