@@ -33,6 +33,9 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <a href="https://app.rocketseat.com.br/me/marcos-almeida" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Rocketseat&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="rocketseat logo"  />
+  </a>
 </div>
 
 
@@ -42,9 +45,6 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAntonioFerreira&theme=radical" />
 </p>
 
-<div align="center">
-<a href="https://app.rocketseat.com.br/me/marcos-almeida"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcos-almeida&type=card" width="400" alt="Marcos Almeida's Rocket ID"/></a>
-</div>
 
  <!--
 ## 📈 Estatísticas do GitHub
@@ -55,9 +55,6 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAntonioFerreira&layout=compact&theme=radical)](https://github.com/MarcosAntonioFerreira)
 
 ##
--->
-
 
 <img align="right" src="./assets/octocat-marcos-almeida.png" height="250" alt="octocat"  />
-
-###
+-->
