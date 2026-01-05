@@ -1,10 +1,16 @@
-###
 
-<img style="margin-top: -40px;" align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
+![Banner](./assets/banner-marcosalmeida.png)
 
-###
+## 📝 About Me
 
-<h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas.<br /><br /> Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Stack.</h2>
+<div style="display:flex;flex-direction:row;">
+  <div style="width:50%">
+    <h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas.<br /><br /> Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Stack.</h2>
+  </div>
+  <div style="width:50%">
+    <img style="margin-top: -40px;" align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
+  </div>
+</div>
 
 ###
 
@@ -85,6 +91,6 @@
 
 <a href="https://app.rocketseat.com.br/me/marcos-almeida"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcos-almeida&type=card" width="280" alt="Marcos Almeida's Rocket ID"/></a>
 
-<img align="right" src="./octocat-marcos-almeida.png" height="250" alt="octocat"  />
+<img align="right" src="./assets/octocat-marcos-almeida.png" height="250" alt="octocat"  />
 
 ###
