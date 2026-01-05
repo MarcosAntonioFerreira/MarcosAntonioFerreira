@@ -67,6 +67,12 @@
 ###
 
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAntonioFerreira&theme=radical" />
+</p>
+
   
 ## 📈 Estatísticas do GitHub
 [![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)](https://github.com/MarcosAntonioFerreira)
