@@ -32,7 +32,9 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
   <a href="marcosantonioalmeida655@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://www.behance.net/marcosalmeida57" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
   <a href="https://app.rocketseat.com.br/me/marcos-almeida" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Rocketseat&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="rocketseat logo"  />
   </a>
