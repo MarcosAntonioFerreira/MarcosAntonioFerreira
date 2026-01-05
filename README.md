@@ -3,11 +3,14 @@
 
 ## 📝 About Me
 
-<h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas.<br /><br /> Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Stack.</h2>
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
+<h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas.
+<br>
+<br>
+<h2 align="left">Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Stack.
+<img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"/>
 
-<br />
-<br />
+<br>
+<br>
 
 
 
