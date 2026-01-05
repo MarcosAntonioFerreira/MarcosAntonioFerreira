@@ -2,7 +2,7 @@
 ![Banner](./assets/banner-marcosalmeida.png)
 
 ## 📝 About Me
-<img align="right" height="100" width="200" style="margin-bottom:50px" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"/>
+<img align="right" height="200" width="200" style="margin-bottom:50px" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"/>
 <h2 align="left">Olá, sou Marcos Almeida, graduado em TADS – Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em MBA em Gestão e Desenvolvimento de Pessoas.
 <br>
 <br>
@@ -23,14 +23,6 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
 </div>
-<div align="right">
-<a href="https://app.rocketseat.com.br/me/marcos-almeida"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcos-almeida&type=card" width="500" alt="Marcos Almeida's Rocket ID"/></a>
-</div>
-
-###
-
-
-
 <div align="left">
   <a href="https://www.linkedin.com/in/dev-marcos-almeida/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -45,14 +37,15 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
 </div>
 
 
-###
-
-
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAntonioFerreira&theme=radical" />
 </p>
+
+<div align="right">
+<a href="https://app.rocketseat.com.br/me/marcos-almeida"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcos-almeida&type=card" width="200" alt="Marcos Almeida's Rocket ID"/></a>
+</div>
 
  <!--
 ## 📈 Estatísticas do GitHub
