@@ -47,7 +47,7 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosAntonioFerreira&theme=radical" />
 </p>
 
-
+<!--
  
 ## 📈 Estatísticas do GitHub
 [![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=MarcosAntonioFerreira&show_icons=true&theme=radical)](https://github.com/MarcosAntonioFerreira)
@@ -57,6 +57,6 @@ Atuo como Analista de Automações e Processos Digitais e Desenvolvedor Full Sta
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAntonioFerreira&layout=compact&theme=radical)](https://github.com/MarcosAntonioFerreira)
 
 ##
-<!--
+
 <img align="right" src="./assets/octocat-marcos-almeida.png" height="250" alt="octocat"  />
 -->
